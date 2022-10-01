@@ -14,7 +14,7 @@ such as video captions, screen readers, and braille keyboards.
 
 ## Deployment
 
-* The URL of the deployed application.
+* Application Deployment URL -
 
-*  GitHub repository - https://github.com/Jay1194/code-refactor
+*  GitHub Repository - https://github.com/Jay1194/code-refactor
 
