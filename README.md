@@ -4,7 +4,8 @@
 
 ```
 I have cleaned up and added semantic html elements as well as providing web accessibility 
-to ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
+to ensures that people with disabilities can access a website using assistive technologies 
+such as video captions, screen readers, and braille keyboards.
 ```
 
 ## Mock up
